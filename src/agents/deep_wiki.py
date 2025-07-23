@@ -45,7 +45,7 @@ The wiki should include:
    - The class hierarchy if object-oriented code is present
    - The state machine if stateful components exist
    Choose the most relevant diagram types based on the code patterns found.
-4. A Snippet Catalog table listing each snippet id, language, and one-line purpose
+4. A Snippet Catalog table listing each snippet id, language, and one-line purposeFKEY POINT: This references
 5. Step-by-step walkthroughs that show how to use the code end-to-end
 6. Best practices, anti-patterns, and open TODOs
 7. A Further Reading section
